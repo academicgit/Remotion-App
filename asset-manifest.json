@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Remotion-App/static/css/main.94396172.chunk.css",
+    "main.js": "/Remotion-App/static/js/main.71010116.chunk.js",
+    "main.js.map": "/Remotion-App/static/js/main.71010116.chunk.js.map",
+    "runtime~main.js": "/Remotion-App/static/js/runtime~main.663979f5.js",
+    "runtime~main.js.map": "/Remotion-App/static/js/runtime~main.663979f5.js.map",
+    "static/js/2.4761b77b.chunk.js": "/Remotion-App/static/js/2.4761b77b.chunk.js",
+    "static/js/2.4761b77b.chunk.js.map": "/Remotion-App/static/js/2.4761b77b.chunk.js.map",
+    "index.html": "/Remotion-App/index.html",
+    "precache-manifest.250df5951752e83f5e85488af5b7e7c1.js": "/Remotion-App/precache-manifest.250df5951752e83f5e85488af5b7e7c1.js",
+    "service-worker.js": "/Remotion-App/service-worker.js",
+    "static/css/main.94396172.chunk.css.map": "/Remotion-App/static/css/main.94396172.chunk.css.map"
+  }
+}
